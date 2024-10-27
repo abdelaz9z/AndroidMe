@@ -4,5 +4,5 @@
 ## Application Demo
 
 <div align="center">
-  <img src="https://github.com/abdelaz9z/AndroidMe/blob/master/assets/TwitterCounter.gif" width="500" alt="Twitter Counter App Demo">
+  <img src="https://github.com/abdelaz9z/AndroidMe/blob/master/TwitterCounter.gif" width="500" alt="Twitter Counter App Demo">
 </div>
